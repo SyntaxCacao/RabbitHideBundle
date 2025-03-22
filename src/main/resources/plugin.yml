@@ -1,0 +1,6 @@
+name: RabbitHideBundlePlugin
+author: SyntaxCacao
+version:  ${project.version}
+
+main: com.syntaxcacao.spigot.RabbitHideBundlePlugin
+api-version: 1.21.3
