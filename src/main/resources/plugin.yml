@@ -3,4 +3,4 @@ author: SyntaxCacao
 version:  ${project.version}
 
 main: com.syntaxcacao.spigot.RabbitHideBundlePlugin
-api-version: 1.21.3
+api-version: 1.21.8
