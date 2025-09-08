@@ -91,5 +91,10 @@ public class RabbitHideBundlePlugin extends JavaPlugin
         saddleRecipe.addIngredient(new RecipeChoice.MaterialChoice(new ArrayList<>(harnessColors.keySet())));
 
         this.getServer().addRecipe(saddleRecipe);
+
+        // DRIED GHAST //
+
+        // Remove dried ghast recipe
+        this.getServer().removeRecipe(NamespacedKey.minecraft("dried_ghast"));
     }
 }
